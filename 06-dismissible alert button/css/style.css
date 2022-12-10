@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Footer CSS Start */
+.container {
+    /* position: relative; */
+}
+.footer {
+    /* position: fixed;
+    top: 100%;
+    left: 0%; */
+}
+/* Footer CSS End */
